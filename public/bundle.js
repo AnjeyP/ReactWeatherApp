@@ -26771,7 +26771,7 @@
 	    return React.createElement(
 	      'h3',
 	      null,
-	      'About Component'
+	      'About Component!!!'
 	    );
 	  }
 	});
